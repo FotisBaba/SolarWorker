@@ -1,7 +1,7 @@
 # SolarWorker
 Solar worker is a 3D puzzle game set in a construction site where the player has to rotate the solar panels in the level and align them so that they face the sun. 
 
-
+Download the game [here](https://1drv.ms/u/c/b47d4eb5eeaadd09/ETqk3cY5gd9BtbiJsHv5b4ABTYFKWGCSVPYR4AlhsHqpGA?e=MJSCew)
 
 Besides three solar panels, the levels have:
 
